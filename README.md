@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Letícia
 - 👀 I’m interested in art and new experiences;
-- 🌱 I’m currently learning Java;
+- 🌱 I’m currently learning web;
 - 📫 How to reach me: maria.leticia.byna@gmail.com
 
 <!---
