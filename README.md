@@ -1,7 +1,8 @@
 ## Oie, sou a Maria Letícia, estudante na área de bioinformática :)
 
-<div align="center">
+  <div align="center">
   <h3>Techs & Languages</h3>
+  <br>
  <!-- Linguagens -->
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin: 10px;" alt="Java"/>
@@ -25,7 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" style="margin: 10px;" alt="R"/>
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Bioinformática -->
   <a href="https://www.uniprot.org/" target="_blank">
@@ -37,10 +38,14 @@
   <a href="https://alphafold.ebi.ac.uk/" target="_blank">
     <img src="https://lh3.googleusercontent.com/EQG-IiwCivtoW6UzARBc_7uaVBrQ6b5nMtAE-tRCIVLz59sst09hqaHPh2Z1oFhVhdKeuHFkIJVKXX4FM651" height="50" style="margin: 10px;" alt="AlphaFold"/>
   </a>
+  <br>  <br>
+
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marileticiab&layout=compact)
+
 </div>
 
-
-  <br><br>
+<br><br>
 
 <div align="center"> 
   <a href="https://instagram.com/mari_leticiacb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
