@@ -1,7 +1,7 @@
 ## Oie, sou a Maria Letícia, estudante na área de bioinformática :)
 
 <div align="center">
-  <h3>> Techs & Languages</h3>
+  <h3>Techs & Languages</h3>
  <!-- Linguagens -->
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin: 10px;" alt="Java"/>
@@ -38,6 +38,7 @@
     <img src="https://lh3.googleusercontent.com/EQG-IiwCivtoW6UzARBc_7uaVBrQ6b5nMtAE-tRCIVLz59sst09hqaHPh2Z1oFhVhdKeuHFkIJVKXX4FM651" height="50" style="margin: 10px;" alt="AlphaFold"/>
   </a>
 </div>
+
 
   <br><br>
 
