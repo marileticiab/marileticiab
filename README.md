@@ -22,21 +22,22 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 10px;" alt="Python"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" style="margin: 10px;" alt="R"/>
-  </a>
+  
 
-  <br>
+  <br><br>
 
   <!-- Bioinformática -->
-  <a href="https://www.uniprot.org/" target="_blank">
-    <img src="https://www.uniprot.org/og-uniprot-wide-logo-1200x630.png" height="50" style="margin: 10px;" alt="UniProt"/>
+  <a href="https://www.r-project.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" style="margin: 10px;" alt="R"/>
+  </a>
+  <a href="https://www.uniprot.org/">
+    <img src="https://www.uniprot.org/og-uniprot-wide-logo-1200x630.png" height="40" style="margin: 10px;" alt="UniProt"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.ebi.ac.uk/Tools/msa/clustalo/" target="_blank">
-    <img src="https://lh5.googleusercontent.com/proxy/XJHP330UeaIPEtK5qR8CO_CfDw5NOKti-Pd3X81XvN22JlDRcXvmDFqKZ3Ev87veKs1cP_SVSoKJ5PJFpOfK83E" height="50" style="margin: 10px;" alt="Clustal Omega"/>
+  <a href="https://www.ebi.ac.uk/Tools/msa/clustalo/">
+    <img src="https://lh5.googleusercontent.com/proxy/XJHP330UeaIPEtK5qR8CO_CfDw5NOKti-Pd3X81XvN22JlDRcXvmDFqKZ3Ev87veKs1cP_SVSoKJ5PJFpOfK83E" height="40" style="margin: 10px;" alt="Clustal Omega"/>
   </a>&nbsp;&nbsp;
-  <a href="https://alphafold.ebi.ac.uk/" target="_blank">
-    <img src="https://lh3.googleusercontent.com/EQG-IiwCivtoW6UzARBc_7uaVBrQ6b5nMtAE-tRCIVLz59sst09hqaHPh2Z1oFhVhdKeuHFkIJVKXX4FM651" height="50" style="margin: 10px;" alt="AlphaFold"/>
+  <a href="https://alphafold.ebi.ac.uk/">
+    <img src="https://lh3.googleusercontent.com/EQG-IiwCivtoW6UzARBc_7uaVBrQ6b5nMtAE-tRCIVLz59sst09hqaHPh2Z1oFhVhdKeuHFkIJVKXX4FM651" height="40" style="margin: 10px;" alt="AlphaFold"/>
   </a>
   <br>  <br>
 
